@@ -1,1 +1,2 @@
 # KDT4_Practice2
+# KDT4_MINI-PROJECT1
